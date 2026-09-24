@@ -64,7 +64,7 @@ DAX calculations were used to create analytical metrics such as:
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](HRAnalytics.png)
+![HR Analytics Dashboard](images/HRAnalytics.png)
 
 ## 📁 Project Files
 
