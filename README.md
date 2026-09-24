@@ -1,6 +1,8 @@
 # HR Analytics Dashboard
 
 An interactive **HR Analytics Dashboard built with Power BI** to analyze employee data, workforce trends, attrition patterns, salary distribution, job satisfaction, department performance, gender distribution, age groups, and experience-based attrition.
+## 🖼️ Dashboard Preview
+![HR Analytics Dashboard](images/HRAnalytics.png)
 
 ## 📊 Project Overview
 
@@ -61,10 +63,6 @@ DAX calculations were used to create analytical metrics such as:
 * Attrition Rate %
 * Average Salary
 * Average Age
-
-## 🖼️ Dashboard Preview
-
-![HR Analytics Dashboard](images/HRAnalytics.png)
 
 ## 📁 Project Files
 
